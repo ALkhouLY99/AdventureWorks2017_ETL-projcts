@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Integration Services Project_4", "Integration Services Project_4\Integration Services Project_4.dtproj", "{84A67E4D-8125-45F3-B055-4F56B77EE098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84A67E4D-8125-45F3-B055-4F56B77EE098}.Development|Default.ActiveCfg = Development
+		{84A67E4D-8125-45F3-B055-4F56B77EE098}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5D0C5E4-A242-48C0-863E-43DEB11BC1A4}
+	EndGlobalSection
+EndGlobal
